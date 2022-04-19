@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/TMDAD02/app.git
+[submodule "web"]
+	path = web
+	url = https://github.com/TMDAD02/web.git
