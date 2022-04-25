@@ -1,0 +1,4 @@
+rootProject.name='chatApp-G02'
+
+include 'app'
+include 'web'
