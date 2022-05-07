@@ -19088,7 +19088,6 @@ Dazarola
 Dañileo
 daño
 Dañobeitia
-de
 de Filippi
 de gusto
 De la Caballería
@@ -57996,7 +57995,6 @@ umlaut
 Umm Qasar
 Umm Qasr
 Umpierrez
-Una
 UNAM
 Unamuno
 Unamunzaga
@@ -58078,8 +58076,6 @@ unión
 Unión Europea
 Unión Soviética
 Unna
-uno
-unos
 Unquién
 Unquén
 Unsaga
